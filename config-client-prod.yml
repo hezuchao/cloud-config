@@ -2,4 +2,4 @@ data:
   env: config-client-prod
   user:
     username: config-client-user
-    password: 654321
+    password: 666666
